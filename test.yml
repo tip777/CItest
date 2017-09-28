@@ -1,1 +1,3 @@
-test
+test:
+  override:
+    - echo Hello World
